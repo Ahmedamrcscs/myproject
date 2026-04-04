@@ -1,4 +1,4 @@
-# Multi-Layered Password Authentication App
+# Multi-Layered Password Authentication System
 
 This Python application provides a secure user registration and login system featuring a robust, multi-stage encryption pipeline and a clean Graphical User Interface (GUI) built with Tkinter.
 
